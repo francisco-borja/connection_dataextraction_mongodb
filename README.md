@@ -1,4 +1,4 @@
-# Project Name
+# Connecting to Mongo DB No SQL repository to extract Shopify data
 
 This program was created with the goal of connecting to a MongoDB repository (NoSQL database) and being able to extract the data using Mongo DB Pipeline/aggregation language, for subsequent manipulation.
 
@@ -8,5 +8,5 @@ The jupyter notebook connects to Google drive to securely get connection string,
 
 ## Modules used
 
-pymongo
-pandas
+-pymongo
+-pandas
